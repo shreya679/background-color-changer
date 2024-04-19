@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    /* border: 2px solid; */
+    /* background-color: pink; */
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    margin: 20px;
+    border-radius: 50%;
+}
+#black{
+    background-color: black;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
